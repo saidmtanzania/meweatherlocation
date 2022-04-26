@@ -1,0 +1,2 @@
+CN=desktop-kjct4v7; CN=172.16.69.38
+https://desktop-kjct4v7:8391
